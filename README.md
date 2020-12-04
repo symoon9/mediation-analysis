@@ -2,14 +2,18 @@
 Mediation analysis code for connectome lab. 
 
 ## Considerd Models
-### Model1
-![model1](./img/model1.png){: width="70%" height="70%"}    
+### Model1 
+<img src = "./img/model1.png" width="70%">    
+
 **Simple Mediation Model**
+
 ### Model2
-![model2](./img/model2.png)
+<img src = "./img/model2.png" width="70%">   
+
 **Moderated Mediation Model**
 ### Model3
-![model3](./img/model3.png)
+<img src = "./img/model3.png" width="70%">     
+ 
 **ELS as a Mediator**
 
 ## Possible Pairs of ELS-NIH
