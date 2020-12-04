@@ -3,7 +3,7 @@ Mediation analysis code for connectome lab.
 
 ## Considerd Models
 ### Model1
-![model1](./img/model1.png)      
+![model1](./img/model1.png){: width="70%" height="70%"}    
 **Simple Mediation Model**
 ### Model2
 ![model2](./img/model2.png)
